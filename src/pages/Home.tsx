@@ -4,9 +4,9 @@ function Home() {
       <h1>
         Sorry... We're still building this!
       </h1>
-      <h2>
+      <h3>
         *You can help us over at https://github.com/yafari/yafari-web
-      </h2>
+      </h3>
     </div>
   )
 }
